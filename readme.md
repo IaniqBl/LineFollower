@@ -19,7 +19,7 @@ batteries: 2S LiPo 1500mAh
 
 wireless communication: HC08
 
-distance sensor - motors: x
+distance sensor - motors: 10,5cm
 
 weight: x
 

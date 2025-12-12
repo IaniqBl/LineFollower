@@ -1,2 +1,5 @@
 # start/stop interrupt proof of concept
-minimale hard- en software die de correcte werking van een start/stop drukknop aantoont, gebruik makend van een hardware interrupt
+Stap 1: Maak de schakeling na volgens het schema.
+Stap 2: Verbind Arduino met PC en upload de code.
+
+Hieronder zie je een foto van mijn schakeling, druk.

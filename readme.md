@@ -1,7 +1,8 @@
 # LineFollower
 
 Mijn LineFollower  
-![A description of my image](images/empty.png)
+<img width="1125" height="2000" alt="afbeelding" src="https://github.com/user-attachments/assets/5e55dd53-0d79-4436-877e-59a356931e2d" />
+
 
   
 ## specifications

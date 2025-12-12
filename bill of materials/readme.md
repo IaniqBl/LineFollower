@@ -20,5 +20,5 @@
 |         15|Smeltzekering|fast blow 3A|Recup|€ |1|€ |
 |         16|Prototype bord|Afmeting: |Recup|€ |1|€ |
 |         17|Soepele draad|0,5mm²x10m|Nieuw|€2,05 |1|€2,05 |
-|         1|Soepele draad|0,75mm²x1m|Recup|€0,50 |1|€0,5 |
+|         18|Soepele draad|0,75mm²x1m|Recup|€0,50 |1|€0,5 |
 

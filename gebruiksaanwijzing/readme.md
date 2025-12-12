@@ -40,5 +40,6 @@ Power : x
 
 ### start/stop button
 uitleg locatie + werking start/stop button
-Knop bevindt zich op de pcb. Dit is een toggle interrupt laag actieve knop.
+Knop bevindt zich op de pcb. Dit is een toggle interrupt laag actieve knop.  
+Deze zet een flag aan, die in de loop dezelfde variabele run toggelt.
 

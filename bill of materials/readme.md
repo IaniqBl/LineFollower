@@ -15,10 +15,11 @@
 |         10|Schakelaar|Schakelaar batterij|Nieuw|€ 0,55|1|€ 0,55|
 |         11|Knop|Start knop|Recup|€ 0,05|1|€ 0,05|
 |         12|Pin headers(20)|Female|Recup|€ 0,55|1|€ 0,55|
-|         13|Pin headers(20)|male|Recup|€0.55|1|€0,55 |
-|         14|HC08|Bluetooth module|Recup|€ |1|€ |
-|         15|Smeltzekering|fast blow 3A|Recup|€ |1|€ |
-|         16|Prototype bord|Afmeting: |Recup|€ |1|€ |
-|         17|Soepele draad|0,5mm²x10m|Nieuw|€2,05 |1|€2,05 |
-|         18|Soepele draad|0,75mm²x1m|Recup|€0,50 |1|€0,5 |
+|         13|Pin headers(20)|male|Recup|€0.55|1|€0,55|
+|         14|HC08|Bluetooth module|Recup|€2,43|1|€2,43|
+|         15|Smeltzekering|fast blow 3A|Recup|€0,30|1|€0,30|
+|         16|Prototype bord|Afmeting: 7x5 cm|Recup|€0,43|1|€0,43|
+|         17|Soepele draad|0,5mm²x10m|Nieuw|€2,05 |1|€2,05|
+|         18|Soepele draad|0,75mm²x1m|Recup|€0,50 |1|€0,50|
+|         TOTAAL||||||€37,09|
 

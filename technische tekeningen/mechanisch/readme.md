@@ -12,6 +12,7 @@ Gelicenseerd onder [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/l
 
 > “Deze motor mount is gemarkeerd als originele creatie door de auteur. Gebruik vereist correcte attributie en mag niet commercieel zijn.”
 >
+>   
 > ## N20 Dust Cover
 
 Dit project verwijst naar [deze N20 dust cover](https://www.myminifactory.com/object/3d-print-n20-motor-dust-cover-101243), ontworpen om de motor te beschermen tegen stof.  

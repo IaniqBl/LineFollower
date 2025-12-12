@@ -1,26 +1,26 @@
 # LineFollower
 
-Mijn LineFollower *nog veranderen*
+Mijn LineFollower  
 ![A description of my image](images/empty.png)
 
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Nano
 
-motors: 
+motors: N20 1/50 500RPM
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries: 2S LiPo 1500mAh
 
-wireless communication:
+wireless communication: HC08
 
-distance sensor - motors:
+distance sensor - motors: x
 
-weight:
+weight: x
 
-speed: 
+speed: x
 

@@ -1,11 +1,16 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-uitleg over het opladen of vervangen van de batterijen
+Koppel de batterij los van de linefollower.  
+Gebruik een balanceerlader om hem via de balansconnector op te laden.  
+Koppel los na het opaden en laat de batterij rusten.  
+Koppel de batterij terug aan de linefollower.  
 
 ### draadloze communicatie
 #### verbinding maken
-uitleg over het verbinden van de robot met laptop / smartphone
+Gebruik de Serial Bluetooth Terminal app.  
+Ga naar devices=>Bluetooth BLE=>Scan selecteer het juiste device.  
+Keer terug en klik naast het vuilbakje op connect.  
 
 #### commando's
 debug [on/off]  
@@ -21,7 +26,8 @@ calibrate black
 calibrate white  
 
 ### kalibratie
-uitleg kalibratie  
+Zet de linefollower op de zwarte lijn en gebruik het calibrate black command. Deze maakt meerdere metingen en pakt het gemiddelde hiervan.  
+Zet de linefollower op de witte achtergrond en gebruik het calibrate white command.  
 
 ### settings
 De robot rijdt stabiel met volgende parameters:  
